@@ -6,7 +6,7 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "connect": "^1.4.0",
+    "connect": "^2.8.2",
     "express-session": "^1.11.1",
     "session-file-store": "*"
   }
